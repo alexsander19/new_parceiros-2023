@@ -8,7 +8,7 @@ Firstly, you need to download it:
 ```bash
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
-git clone https://github.com/alexsander19/new_whatsvendas-2023.git
+git clone https://github.com/alexsander19/new_parceiros-2023.git
 
 adduser deploy
 (Create a password without special characters and repeat it equally.)
@@ -21,7 +21,7 @@ sudo usermod -aG sudo deploy
 Now, all you gotta do is making it executable:
 
 ```bash
-sudo chmod +x ./new_whatsvendas-2023/izing
+sudo chmod +x ./new_parceiros-2023/izing
 ```
 
 ### usage
@@ -29,7 +29,7 @@ sudo chmod +x ./new_whatsvendas-2023/izing
 After downloading and making it executable, you need to **navigate into** the installer directory and **run the script with sudo**:
 
 ```bash
-cd ./new_whatsvendas-2023
+cd ./new_parceiros-2023
 
 ```
 
