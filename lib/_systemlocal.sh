@@ -35,7 +35,7 @@ system_git_clone() {
   sleep 2
 
   sudo su - deploy <<EOF
-  git clone https://github.com/alexsander19/whatsvendas.open /home/deploy/izing.io/
+  git clone https://github.com/alexsander19/parceiros.open /home/deploy/izing.io/
 EOF
 
   sleep 2
